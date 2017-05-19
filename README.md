@@ -25,4 +25,6 @@ Using our driver profile information, the user can call or text to negotiate the
 After the service,for any problem or recommedation, the user can use report tab to report problem/issue.
 
 
-Developed by Joseph Gichuki, Shariff Mohammed, Kevin Maina and Isaac Onyango.
+###### Developed by Joseph Gichuki, Shariff Mohammed, Kevin Maina and Isaac Onyango.
+
+#### Copyright Safiri Team
